@@ -4,7 +4,7 @@
   },
   "portsAttributes": {
     "5173": {
-      "Label": Vite port",
+      "Label": "Vite port",
       "onAutoForward": "openPreview"
     }
   },
